@@ -6,7 +6,6 @@ pool:
   vmImage: 'ubuntu-20.04'
   demands:
   - npm
-  - gulp
 
 variables:
   buildConfiguration: 'Release'
